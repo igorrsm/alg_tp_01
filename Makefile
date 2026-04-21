@@ -16,7 +16,7 @@ BIN_DIR = bin
 INCLUDES = -I$(INC_DIR)
 
 # Nome do executável final
-EXEC = $(BIN_DIR)/fuga
+EXEC = $(BIN_DIR)/tp_01
 
 # Lista de arquivos fonte (todos os .cpp dentro de src/)
 SRCS = $(wildcard $(SRC_DIR)/*.cpp)
